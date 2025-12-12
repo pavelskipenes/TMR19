@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-git clone https://pavelskipenes/TMR19.git
+git clone https://github.com/pavelskipenes/TMR19.git
 cd TMR19
 python -m venv venv
 source venv/bin/activate
