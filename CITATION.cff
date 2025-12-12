@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Subseption
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Pavel Skipenes
+    email: pavel.skipenes@ntnu.no
+    affiliation: Norwegian University Of Science And Technology
+  - affiliation: Norwegian University Of Science And Technology
+    given-names: Petter Dalhaug
+    email: pettdalh@stud.ntnu.no
+  - given-names: Markus Oftedal Hatleskog
+    email: markusoh@stud.ntnu.no
+    affiliation: Norwegian University Of Science And Technology
+abstract: Synthetic Underwater Dataset Generator for Research
+keywords:
+  - Dataset
+  - Generator
+  - Cybernetics
+  - Robotics
+  - Perception
+  - Cynthetic
+license: MIT
+date-released: '2025-12-19'
